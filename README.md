@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hey there, I'm Ranjana Salian 👋
 
-I'm an Operation Specialist at [Vedantu](https://www.vedantu.com), currently learning Kotlin.
+I'm an Operation Specialist at [Vedantu](https://www.vedantu.com), currently learning React.js.
 
 💼 Contact 
 
