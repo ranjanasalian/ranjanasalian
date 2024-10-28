@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 -->
 
-# Hey there, I'm Ranjana Salian 👋
+# Hey there, I'm Ranjana Poojary 👋
 
-I'm an Operation Specialist at [Vedantu](https://www.vedantu.com), currently learning React.js.
+I'm an Web Developer at [Aroha Group](https://arohagroup.com), currently learning React.js.
 
 💼 Contact: 8310387902
 💼 Email: ranjanapoojary1997@gmail.com 
